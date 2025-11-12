@@ -40,4 +40,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanullahshah32&show_icons=true&locale=en&layout=compact&count_private=true&cache_seconds=1800" alt="amanullahshah32" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanullahshah32&show_icons=true&locale=en" alt="amanullahshah32" /></p>
 
+<h3 align="left">🐍 Snake Contribution Graph</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanullahshah32/amanullahshah32/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanullahshah32/amanullahshah32/main/dist/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/amanullahshah32/amanullahshah32/main/dist/github-snake.svg">
+  </picture>
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanullahshah32&" alt="amanullahshah32" /></p>
