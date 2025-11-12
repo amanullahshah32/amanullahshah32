@@ -49,4 +49,9 @@
   </picture>
 </p>
 
+<h3 align="left">📊 3D Contribution Graph</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amanullahshah32/amanullahshah32/main/profile-3d-contrib.svg" alt="3D Contribution Graph">
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanullahshah32&" alt="amanullahshah32" /></p>
