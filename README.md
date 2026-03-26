@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:amanullahshah012@gmail.com"><img src="https://img.shields.io/badge/Email-amanullahshah012%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/amanullahshah32"><img src="https://img.shields.io/badge/LinkedIn-amanullahshah32-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/amanullahshah32-"><img src="https://img.shields.io/badge/LinkedIn-amanullahshah32-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/amanullahshah32"><img src="https://img.shields.io/badge/GitHub-amanullahshah32-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://amanullahshah.me"><img src="https://img.shields.io/badge/Portfolio-amanullahshah.me-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
