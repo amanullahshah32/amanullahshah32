@@ -1,0 +1,114 @@
+
+
+--- PAGE 1 ---
+
+Md. Amanullah Shah
+Lab Instructor | Computer Science Graduate | AI & Web Enthusiast
+Dhaka, Bangladesh · Phone: +880 1791-455303 · Mail: amanullahshah012@gmail.com
+Portfolio: amanullahshah.me · LinkedIn: amanullahshah32- · GitHub: amanullahshah32
+PROFESSIONAL SUMMARY
+Dedicated Computer Science graduate and Lab Instructor at North South University with strong
+expertise in software engineering, machine learning, and database systems. Experienced in teach-
+ing core CS concepts, building enterprise modules (Oracle APEX), and developing modern web
+applications (Vanilla JS, Django). Passionate about bridging the gap between theoretical AI/ML
+concepts and practical software implementation.
+TECHNICAL SKILLS
+• Languages: Python, JavaScript (ES6+), SQL, PL/SQL, HTML, CSS, TypeScript (Basic), Java (Basic),
+C (Academic), Bash/Shell, MATLAB (Basic), R (Basic).
+• Machine Learning & DL: PyTorch, scikit-learn, CNNs, Transformers (BERT), Feature Engineering,
+Hyperparameter Tuning.
+• NLP: BERT (HuggingFace), TF-IDF, Sentiment Analysis, Text Classification, Keyword Extraction,
+LangChain, Prompt Engineering.
+• Web & Backend: Django, Oracle APEX, Streamlit, DOM Manipulation, REST APIs.
+• Databases: Oracle Database, MongoDB, Quick SQL.
+• Data Science: Pandas, NumPy, Matplotlib, Data Cleaning, Visualization.
+• Tools: Git, VS Code, Google Colab, Kaggle, Linux (Basic), Postman.
+PROFESSIONAL EXPERIENCE
+Lab Instructor Jan 2026 – Present
+North South University Dhaka, Bangladesh
+• Conducting lab sessions for CSE311: Database Systems (2 sections) and CSE115: Introduction
+to Programming (1 section).
+• Instructing students on SQL queries, database normalization, C programming logic, and algo-
+rithm implementation.
+• Designing lab tasks, grading assessments, and providing mentorship to undergraduate stu-
+dents.
+Oracle APEX Developer Intern Sep 2025 – Nov 2025
+Mysoft Limited Dhaka, Bangladesh
+• Developed enterprise-level OPD and Pharmacy modules for a hospital management system.
+• Implemented complex UI components, dynamic actions, validation workflows, and BLOB-based
+image uploads.
+• Optimized PL/SQL queries for backend logic and collaborated with QA teams for system stability.
+Graduate Assistant (GA) Sep 2025 – Jan 2026
+North South University Dhaka, Bangladesh
+• Assisted faculty with advanced course material preparation and grading for senior-level courses.
+• Mentored undergraduate students in project planning and documentation.
+Undergraduate Teaching Assistant (UGA) Jan 2025 – Sep 2025
+North South University Dhaka, Bangladesh
+• Supported faculty for Software Engineering, Database Systems, and C Programming courses.
+• Evaluated lab reports, checked code scripts, and conducted consultation hours for 120+ stu-
+dents.
+EDUCATION
+
+--- PAGE 2 ---
+
+B.Sc. in Computer Science and Engineering Graduated: Sep 2025
+North South University CGPA: 3.72 / 4.00
+Higher Secondary Certificate (HSC) Apr 2020
+Dhopapara Memorial Degree College, Puthia, Rajshahi GPA: 5.00 / 5.00
+Secondary School Certificate (SSC) Feb 2018
+Jhalmalia High School, Puthia, Rajshahi GPA: 4.78 / 5.00
+KEY PROJECTS
+Bankist App (Vanilla JavaScript) GitHub Link
+• Built a minimalist banking interface implementing advanced DOM manipulation, event delega-
+tion, and array methods (map, filter , reduce) for real-time balance calculations and transfers.
+Personal Portfolio Website amanullahshah.me
+• Designed and deployed a responsive personal portfolio using HTML, CSS, and JavaScript. Hosted
+via GitHub Pages with a custom domain to showcase achievements.
+Automated CV Ranking & Recommendation System (NLP) CSE499A
+• Extracted keywords from CVs and matched them against job descriptions.
+• Developed explainable skill-gap feedback for candidates.
+• Used TF-IDF + BERT embeddings for similarity comparison.
+• Planned extensions include LangChain agents and automation pipelines.
+Sentiment Analysis of Medical App Reviews (BERT) CSE498R
+• Scraped healthcare app reviews from Google Play Store.
+• Compared TF-IDF + SVM vs. BERT fine-tuning.
+• Evaluated using precision, recall, and F1-score.
+• Emphasized interpretability for healthcare product teams.
+Brain Tumor Segmentation (Deep Learning, PyTorch)
+• Implemented a CNN-based segmentation model.
+• Performed MRI preprocessing, augmentation, and mask generation.
+• Evaluated model using Dice Score and IoU.
+AI Agent for Trip Booking LangChain
+• Built an AI assistant with memory, tools, and decision logic.
+• Simulates itinerary planning, budget preference, and travel suggestions.
+OPD Management System Oracle APEX
+• Developed a full-featured system with forms, LOVs, validations, and dashboards.
+• Implemented dynamic actions and BLOB image uploads.
+Heart Disease Prediction ML Project
+• Built classifiers (LogReg, RandomForest, SVM).
+• Performed hyperparameter tuning & ROC/AUC evaluation.
+NSU Student Records Data Analytics
+• Cleaned and analyzed academic performance datasets.
+• Visualized GPA trends, course difficulty patterns, and outliers.
+Room Rental Web App Django
+• Built a web platform with posting, search, authentication, and booking features.
+ACHIEVEMENTS
+• Academic Honor: Awarded Magna Cum Laude from North South University for academic ex-
+cellence.
+• Top 50 Team: Robi Datathon 3.0 (2024).
+• Kaggle Competitions: Participated in Lumbar Spine Classification and Brain MRI Segmentation.
+• Certifications: Completed AI Agent Crash Course (LangChain, OpenAI API).
+
+--- PAGE 3 ---
+
+SKILLS & LANGUAGES
+• Soft Skills: Problem-solving, Analytical Thinking, Fast Learning, Strong Communication, Docu-
+mentation Skills, Team Collaboration, Project Ownership.
+• Languages: Bangla (Native), English (Fluent – spoken, written, academic writing).
+REFERENCES
+Dr . Abu Sayed Mohammad Latiful Hoque
+Professor
+North South University
+PhD, University of Strathclyde, UK (2003)
+M. Sc. Engg., CSE, BUET (1997)
+B. Sc. Engg., EEE, BUET (1986)

@@ -1,114 +1,82 @@
-<h1 align="center">Hi 👋, I'm Amanullah Shah</h1>
-<h3 align="center">Oracle APEX Developer | Deep Learning & NLP Enthusiast | Researcher</h3>
+<h1 align="center">Md. Amanullah Shah</h1>
+<h3 align="center">Lab Instructor @ NSU • Oracle APEX Developer • AI/ML & NLP Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Oracle+APEX+Developer;AI+%26+ML+Enthusiast;Deep+Learning+Researcher;Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=amanullahshah32&label=Profile%20views&color=0e75b6&style=flat" alt="amanullahshah32" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanullahshah32&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="amanullahshah32" />
-  </a> 
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 💼 I'm currently working as an **Oracle APEX Developer at MySoft Ltd**.  
-- 🌱 I'm learning **Generative AI, LLMs, RAG systems, and AI-driven enterprise solutions**.  
-- 👯 I'm open to collaborating on **research projects in deep learning, NLP, and healthcare AI applications**.  
-- 🤝 I'm seeking to grow in **real-world applications of neural networks and explainable AI**.  
-- 👨‍💻 All of my projects are available at [github.com/amanullahshah32](https://github.com/amanullahshah32).  
-- 📝 I'm exploring opportunities to publish **research papers and technical blogs** soon.  
-- 💬 Ask me about **Oracle APEX development, Machine Learning, Deep Learning, PyTorch, and AI-driven applications**.  
-- 📫 Reach me at **amanullahshah012@gmail.com**.  
-- ⚡ Fun fact: **I can juggle between enterprise app development and deep learning experiments without losing my curiosity!**  
-
----
-
-### 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanullahshah32&theme=algolia&hide_border=false&stroke=0000&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanullahshah32&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanullahshah32&theme=algolia&hide_border=false" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00A3FF&center=true&vCenter=true&width=920&lines=Computer+Science+Graduate+(CGPA+3.72)+%7C+Magna+Cum+Laude;Enterprise+Development+with+Oracle+APEX+and+PL%2FSQL;Applied+AI%2FNLP+with+BERT%2C+CNN%2C+PyTorch%2C+LangChain" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanullahshah32&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=false&count_private=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanullahshah32&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 Achievements & Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanullahshah32&theme=algolia" alt="Profile Summary" />
+  <a href="mailto:amanullahshah012@gmail.com"><img src="https://img.shields.io/badge/Email-amanullahshah012%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/amanullahshah32"><img src="https://img.shields.io/badge/LinkedIn-amanullahshah32-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/amanullahshah32"><img src="https://img.shields.io/badge/GitHub-amanullahshah32-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://amanullahshah.me"><img src="https://img.shields.io/badge/Portfolio-amanullahshah.me-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanullahshah32&theme=algolia" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanullahshah32&theme=algolia" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanullahshah32&theme=algolia&utcOffset=5" alt="Productive Time" />
+  <img src="https://komarev.com/ghpvc/?username=amanullahshah32&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-10B981?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-Lab%20Instructor%20(NSU)-2563EB?style=for-the-badge" alt="Role" />
 </p>
 
----
+## About
 
-### 🌐 Connect with me:
+I am a Computer Science graduate (CGPA 3.72/4.00, Magna Cum Laude) currently working as a Lab Instructor at North South University. I build enterprise systems with Oracle APEX and PL/SQL, and apply AI/ML and NLP techniques to practical software problems.
+
+## Current Focus
+
+- Teaching Database Systems and Programming at North South University
+- Developing enterprise workflows with Oracle APEX, SQL, and PL/SQL
+- Building practical AI/NLP systems using BERT, CNN, PyTorch, and LangChain
+
+## Experience
+
+- Lab Instructor, North South University (Jan 2026 - Present)
+- Oracle APEX Developer Intern, Mysoft Limited (Sep 2025 - Nov 2025)
+- Graduate Assistant, North South University (Sep 2025 - Jan 2026)
+- Undergraduate Teaching Assistant, North South University (Jan 2025 - Sep 2025)
+
+## Selected Projects
+
+- Automated CV Ranking and Recommendation System (TF-IDF + BERT)
+- Sentiment Analysis of Medical App Reviews (TF-IDF+SVM vs BERT)
+- Brain Tumor Segmentation in PyTorch (Dice, IoU)
+- OPD Management System in Oracle APEX
+- Room Rental Web App in Django
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,django,postgres,mongodb,mysql,docker,git,linux,vscode" alt="Tech stack" />
+</p>
+
+Core skills: Python, JavaScript, SQL, PL/SQL, Oracle APEX, Django, PyTorch, scikit-learn, BERT, LangChain, Pandas, NumPy, Oracle DB, MongoDB.
+
+## Achievements
+
+- Magna Cum Laude, North South University
+- Top 50 Team, Robi Datathon 3.0 (2024)
+- Kaggle participant: Lumbar Spine Classification and Brain MRI Segmentation
+- AI Agent Crash Course (LangChain, OpenAI API)
+
+## GitHub Highlights
 
 <p align="center">
-<a href="https://twitter.com/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26314111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26314111" height="30" width="40" /></a>
-<a href="https://kaggle.com/amanullahshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amanullahshah" height="30" width="40" /></a>
-<a href="https://fb.com/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://instagram.com/amanullahshah32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanullahshah32" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amanullah_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amanullah_shah" height="30" width="40" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanullahshah32&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=amanullahshah32&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="center"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-</p>
-
----
-
-### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanullahshah32/amanullahshah32/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanullahshah32&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
----
+## Connect
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+- Email: amanullahshah012@gmail.com
+- LinkedIn: https://linkedin.com/in/amanullahshah32
+- Portfolio: https://amanullahshah.me
+- GitHub: https://github.com/amanullahshah32
+- Kaggle: https://kaggle.com/amanullahshah
+- Codeforces: https://codeforces.com/profile/amanullah_shah
+- Stack Overflow: https://stackoverflow.com/users/26314111
+
+<p align="center"><em>Building practical systems at the intersection of enterprise software and AI.</em></p>
