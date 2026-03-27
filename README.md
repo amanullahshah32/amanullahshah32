@@ -20,7 +20,7 @@
 
 ## About
 
-I am a Computer Science graduate (CGPA 3.72/4.00, Magna Cum Laude) currently working as a Lab Instructor at North South University. I build enterprise systems with Oracle APEX and PL/SQL, and apply AI/ML and NLP techniques to practical software problems.
+I am a Computer Science graduate (CGPA 3.5++/4.00, Magna Cum Laude) currently working as a Lab Instructor at North South University. I build enterprise systems with Oracle APEX and PL/SQL, and apply AI/ML and NLP techniques to practical software problems.
 
 ## Current Focus
 
