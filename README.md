@@ -2,7 +2,7 @@
 <h3 align="center">Lab Instructor @ NSU • Oracle APEX Developer • AI/ML & NLP Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00A3FF&center=true&vCenter=true&width=920&lines=Computer+Science+Graduate+(CGPA+3.72)+%7C+Magna+Cum+Laude;Enterprise+Development+with+Oracle+APEX+and+PL%2FSQL;Applied+AI%2FNLP+with+BERT%2C+CNN%2C+PyTorch%2C+LangChain" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=00A3FF&center=true&vCenter=true&width=920&lines=Computer+Science+Graduate+(CGPA+3.5**)+%7C+Magna+Cum+Laude;Enterprise+Development+with+Oracle+APEX+and+PL%2FSQL;Applied+AI%2FNLP+with+BERT%2C+CNN%2C+PyTorch%2C+LangChain" alt="Typing intro" />
 </p>
 
 <p align="center">
